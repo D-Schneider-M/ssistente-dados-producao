@@ -2,7 +2,7 @@
 
 Agente de IA (Gemini) que responde, em português, perguntas sobre dados de produção industrial, como "qual o principal motivo de parada da Linha C?". Os números vêm de funções em pandas, e não da "cabeça" do modelo, então a IA não inventa valores.
 
-**App online:** _(cole aqui o link do Streamlit depois de publicar)_
+**App online:** [Acessar o Assistente de Produção](https://ssistente-dados-appucao-nyvpbt6skountxldqby9n3.streamlit.app)
 
 > Os dados do exemplo são **fictícios**, gerados por `gerar_dados.py`.
 
