@@ -1,0 +1,133 @@
+data,linha,turno,produto,pecas_planejadas,pecas_produzidas,pecas_refugo,minutos_parada,motivo_parada
+2026-10-01,Linha A,Manhã,Tampa plástica,500,482,0,0,
+2026-10-01,Linha A,Tarde,Tampa plástica,500,467,6,0,
+2026-10-01,Linha B,Manhã,Embalagem 500 ml,450,432,1,0,
+2026-10-01,Linha B,Tarde,Embalagem 500 ml,450,397,2,0,
+2026-10-01,Linha C,Manhã,Caixa organizadora,400,301,4,0,
+2026-10-01,Linha C,Tarde,Caixa organizadora,400,339,5,0,
+2026-10-02,Linha A,Manhã,Tampa plástica,500,488,0,0,
+2026-10-02,Linha A,Tarde,Tampa plástica,500,484,3,0,
+2026-10-02,Linha B,Manhã,Embalagem 500 ml,450,434,4,22,Setup / troca de ferramenta
+2026-10-02,Linha B,Tarde,Embalagem 500 ml,450,430,7,0,
+2026-10-02,Linha C,Manhã,Caixa organizadora,400,352,15,0,
+2026-10-02,Linha C,Tarde,Caixa organizadora,400,327,14,0,
+2026-10-05,Linha A,Manhã,Tampa plástica,500,481,8,0,
+2026-10-05,Linha A,Tarde,Tampa plástica,500,484,0,0,
+2026-10-05,Linha B,Manhã,Embalagem 500 ml,450,407,0,0,
+2026-10-05,Linha B,Tarde,Embalagem 500 ml,450,400,3,0,
+2026-10-05,Linha C,Manhã,Caixa organizadora,400,326,9,44,Quebra de máquina
+2026-10-05,Linha C,Tarde,Caixa organizadora,400,343,4,0,
+2026-10-06,Linha A,Manhã,Tampa plástica,500,465,3,0,
+2026-10-06,Linha A,Tarde,Tampa plástica,500,482,5,0,
+2026-10-06,Linha B,Manhã,Embalagem 500 ml,450,430,10,0,
+2026-10-06,Linha B,Tarde,Embalagem 500 ml,450,397,3,0,
+2026-10-06,Linha C,Manhã,Caixa organizadora,400,315,23,0,
+2026-10-06,Linha C,Tarde,Caixa organizadora,400,322,16,68,Falta de material
+2026-10-07,Linha A,Manhã,Tampa plástica,500,469,2,0,
+2026-10-07,Linha A,Tarde,Tampa plástica,500,469,5,0,
+2026-10-07,Linha B,Manhã,Embalagem 500 ml,450,412,2,0,
+2026-10-07,Linha B,Tarde,Embalagem 500 ml,450,416,1,24,Falta de material
+2026-10-07,Linha C,Manhã,Caixa organizadora,400,345,21,18,Manutenção preventiva
+2026-10-07,Linha C,Tarde,Caixa organizadora,400,327,26,0,
+2026-10-08,Linha A,Manhã,Tampa plástica,500,493,8,24,Falta de operador
+2026-10-08,Linha A,Tarde,Tampa plástica,500,486,7,0,
+2026-10-08,Linha B,Manhã,Embalagem 500 ml,450,407,1,43,Falta de operador
+2026-10-08,Linha B,Tarde,Embalagem 500 ml,450,426,6,90,Setup / troca de ferramenta
+2026-10-08,Linha C,Manhã,Caixa organizadora,400,360,14,57,Falta de material
+2026-10-08,Linha C,Tarde,Caixa organizadora,400,338,21,0,
+2026-10-09,Linha A,Manhã,Tampa plástica,500,460,2,56,Setup / troca de ferramenta
+2026-10-09,Linha A,Tarde,Tampa plástica,500,468,2,0,
+2026-10-09,Linha B,Manhã,Embalagem 500 ml,450,399,8,0,
+2026-10-09,Linha B,Tarde,Embalagem 500 ml,450,435,6,70,Falta de operador
+2026-10-09,Linha C,Manhã,Caixa organizadora,400,311,13,0,
+2026-10-09,Linha C,Tarde,Caixa organizadora,400,369,27,0,
+2026-10-12,Linha A,Manhã,Tampa plástica,500,484,6,0,
+2026-10-12,Linha A,Tarde,Tampa plástica,500,483,3,0,
+2026-10-12,Linha B,Manhã,Embalagem 500 ml,450,414,3,12,Falta de operador
+2026-10-12,Linha B,Tarde,Embalagem 500 ml,450,418,7,90,Quebra de máquina
+2026-10-12,Linha C,Manhã,Caixa organizadora,400,316,22,0,
+2026-10-12,Linha C,Tarde,Caixa organizadora,400,305,5,0,
+2026-10-13,Linha A,Manhã,Tampa plástica,500,467,1,0,
+2026-10-13,Linha A,Tarde,Tampa plástica,500,479,4,0,
+2026-10-13,Linha B,Manhã,Embalagem 500 ml,450,428,2,65,Setup / troca de ferramenta
+2026-10-13,Linha B,Tarde,Embalagem 500 ml,450,413,5,0,
+2026-10-13,Linha C,Manhã,Caixa organizadora,400,348,27,61,Setup / troca de ferramenta
+2026-10-13,Linha C,Tarde,Caixa organizadora,400,357,3,78,Manutenção preventiva
+2026-10-14,Linha A,Manhã,Tampa plástica,500,464,1,0,
+2026-10-14,Linha A,Tarde,Tampa plástica,500,490,0,0,
+2026-10-14,Linha B,Manhã,Embalagem 500 ml,450,430,1,0,
+2026-10-14,Linha B,Tarde,Embalagem 500 ml,450,417,0,40,Falta de material
+2026-10-14,Linha C,Manhã,Caixa organizadora,400,329,12,0,
+2026-10-14,Linha C,Tarde,Caixa organizadora,400,364,4,59,Setup / troca de ferramenta
+2026-10-15,Linha A,Manhã,Tampa plástica,500,492,7,0,
+2026-10-15,Linha A,Tarde,Tampa plástica,500,484,7,0,
+2026-10-15,Linha B,Manhã,Embalagem 500 ml,450,422,6,37,Quebra de máquina
+2026-10-15,Linha B,Tarde,Embalagem 500 ml,450,419,6,0,
+2026-10-15,Linha C,Manhã,Caixa organizadora,400,304,14,0,
+2026-10-15,Linha C,Tarde,Caixa organizadora,400,361,4,0,
+2026-10-16,Linha A,Manhã,Tampa plástica,500,462,1,0,
+2026-10-16,Linha A,Tarde,Tampa plástica,500,483,2,82,Falta de material
+2026-10-16,Linha B,Manhã,Embalagem 500 ml,450,419,0,84,Falta de operador
+2026-10-16,Linha B,Tarde,Embalagem 500 ml,450,417,11,0,
+2026-10-16,Linha C,Manhã,Caixa organizadora,400,351,6,48,Manutenção preventiva
+2026-10-16,Linha C,Tarde,Caixa organizadora,400,322,19,68,Falta de operador
+2026-10-19,Linha A,Manhã,Tampa plástica,500,494,9,37,Falta de operador
+2026-10-19,Linha A,Tarde,Tampa plástica,500,469,8,0,
+2026-10-19,Linha B,Manhã,Embalagem 500 ml,450,431,4,79,Setup / troca de ferramenta
+2026-10-19,Linha B,Tarde,Embalagem 500 ml,450,420,12,0,
+2026-10-19,Linha C,Manhã,Caixa organizadora,400,300,19,23,Falta de material
+2026-10-19,Linha C,Tarde,Caixa organizadora,400,319,22,0,
+2026-10-20,Linha A,Manhã,Tampa plástica,500,465,2,0,
+2026-10-20,Linha A,Tarde,Tampa plástica,500,472,6,0,
+2026-10-20,Linha B,Manhã,Embalagem 500 ml,450,416,3,0,
+2026-10-20,Linha B,Tarde,Embalagem 500 ml,450,398,7,0,
+2026-10-20,Linha C,Manhã,Caixa organizadora,400,303,8,43,Falta de material
+2026-10-20,Linha C,Tarde,Caixa organizadora,400,353,15,11,Quebra de máquina
+2026-10-21,Linha A,Manhã,Tampa plástica,500,462,8,0,
+2026-10-21,Linha A,Tarde,Tampa plástica,500,479,7,0,
+2026-10-21,Linha B,Manhã,Embalagem 500 ml,450,401,1,0,
+2026-10-21,Linha B,Tarde,Embalagem 500 ml,450,432,10,0,
+2026-10-21,Linha C,Manhã,Caixa organizadora,400,364,6,23,Setup / troca de ferramenta
+2026-10-21,Linha C,Tarde,Caixa organizadora,400,356,25,89,Falta de material
+2026-10-22,Linha A,Manhã,Tampa plástica,500,492,2,0,
+2026-10-22,Linha A,Tarde,Tampa plástica,500,487,1,0,
+2026-10-22,Linha B,Manhã,Embalagem 500 ml,450,403,11,0,
+2026-10-22,Linha B,Tarde,Embalagem 500 ml,450,412,8,0,
+2026-10-22,Linha C,Manhã,Caixa organizadora,400,317,4,0,
+2026-10-22,Linha C,Tarde,Caixa organizadora,400,327,1,0,
+2026-10-23,Linha A,Manhã,Tampa plástica,500,466,8,0,
+2026-10-23,Linha A,Tarde,Tampa plástica,500,488,8,0,
+2026-10-23,Linha B,Manhã,Embalagem 500 ml,450,422,5,0,
+2026-10-23,Linha B,Tarde,Embalagem 500 ml,450,398,9,0,
+2026-10-23,Linha C,Manhã,Caixa organizadora,400,336,18,0,
+2026-10-23,Linha C,Tarde,Caixa organizadora,400,323,0,0,
+2026-10-26,Linha A,Manhã,Tampa plástica,500,469,5,0,
+2026-10-26,Linha A,Tarde,Tampa plástica,500,461,5,0,
+2026-10-26,Linha B,Manhã,Embalagem 500 ml,450,427,5,0,
+2026-10-26,Linha B,Tarde,Embalagem 500 ml,450,400,10,15,Manutenção preventiva
+2026-10-26,Linha C,Manhã,Caixa organizadora,400,300,22,0,
+2026-10-26,Linha C,Tarde,Caixa organizadora,400,351,20,0,
+2026-10-27,Linha A,Manhã,Tampa plástica,500,472,0,0,
+2026-10-27,Linha A,Tarde,Tampa plástica,500,471,2,0,
+2026-10-27,Linha B,Manhã,Embalagem 500 ml,450,425,3,0,
+2026-10-27,Linha B,Tarde,Embalagem 500 ml,450,412,4,0,
+2026-10-27,Linha C,Manhã,Caixa organizadora,400,309,10,0,
+2026-10-27,Linha C,Tarde,Caixa organizadora,400,348,25,0,
+2026-10-28,Linha A,Manhã,Tampa plástica,500,470,5,46,Falta de material
+2026-10-28,Linha A,Tarde,Tampa plástica,500,475,5,0,
+2026-10-28,Linha B,Manhã,Embalagem 500 ml,450,414,5,0,
+2026-10-28,Linha B,Tarde,Embalagem 500 ml,450,415,11,0,
+2026-10-28,Linha C,Manhã,Caixa organizadora,400,312,2,0,
+2026-10-28,Linha C,Tarde,Caixa organizadora,400,345,9,0,
+2026-10-29,Linha A,Manhã,Tampa plástica,500,486,6,0,
+2026-10-29,Linha A,Tarde,Tampa plástica,500,466,0,0,
+2026-10-29,Linha B,Manhã,Embalagem 500 ml,450,415,10,63,Falta de operador
+2026-10-29,Linha B,Tarde,Embalagem 500 ml,450,403,8,0,
+2026-10-29,Linha C,Manhã,Caixa organizadora,400,317,16,23,Manutenção preventiva
+2026-10-29,Linha C,Tarde,Caixa organizadora,400,315,20,0,
+2026-10-30,Linha A,Manhã,Tampa plástica,500,476,5,0,
+2026-10-30,Linha A,Tarde,Tampa plástica,500,464,1,0,
+2026-10-30,Linha B,Manhã,Embalagem 500 ml,450,417,6,0,
+2026-10-30,Linha B,Tarde,Embalagem 500 ml,450,426,5,0,
+2026-10-30,Linha C,Manhã,Caixa organizadora,400,364,12,0,
+2026-10-30,Linha C,Tarde,Caixa organizadora,400,332,4,0,

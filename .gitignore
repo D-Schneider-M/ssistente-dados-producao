@@ -1,0 +1,6 @@
+# Chave da API: NUNCA subir para o GitHub
+.env
+.streamlit/secrets.toml
+
+__pycache__/
+.venv/
